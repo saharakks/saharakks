@@ -47,9 +47,9 @@ I love helping startups, NGOs, and individuals scale their ideas with automation
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=husnaintahir&label=Profile%20views&color=0e75b6&style=flat" alt="husnaintahir" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharakks&label=Profile%20views&color=0e75b6&style=flat" alt="Azmat Hunzai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=husnaintahir" alt="husnaintahir" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saharakks" alt="Azmat Hunzai" /></a> </p>
 
 > _"Code less. Automate more. Impact always."_ – Azmat K.
 
