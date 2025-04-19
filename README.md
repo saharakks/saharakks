@@ -21,8 +21,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azmat-karim&show_icons=true&theme=radical" alt="Azmat's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmat-karim&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saharakks&show_icons=true&theme=radical" alt="Azmat's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharakks&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
