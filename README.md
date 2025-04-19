@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Azmat Karim Khan
 
 🎯 Passionate about building **scalable digital solutions** that combine automation, AI, and modern web & Android development. 
+
 🧑‍💻 6+ years experience in tech startups | Freelance Developer | Automation & Generative AI Expert  
 
 ---
